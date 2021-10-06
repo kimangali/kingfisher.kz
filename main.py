@@ -4,7 +4,6 @@ from urllib.parse import quote_plus
 from tqdm import tqdm
 import numpy as np
 import json
-import os
 
 headers = {
 	'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
